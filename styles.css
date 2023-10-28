@@ -153,7 +153,6 @@ color: var(--color-light);
         font-weight: 500;
         line-height: 1.19;
         letter-spacing: 0.03em;
-        text-align: center;
 }
 .person-job {
         font-size: 16px;
