@@ -46,8 +46,12 @@ color: var(--color-brand);
         color: var(--color-primary);
 }
 .header-link:hover,
-.header-link:focus {
+.header-link:focus
+ {
 color: var(--color-link);
+}
+.header-link-primary {
+        color: var(--color-brand);
 }
 .contacts-link {
         font-size: 14px;
@@ -69,6 +73,8 @@ color: var(--color-link);
         letter-spacing: 0.03em;
         text-align: center;
         color: var(--color-primary);
+        background-color: var(--color-bg-light);
+        border: none;
 }
 .button:hover,
 .button:focus{
