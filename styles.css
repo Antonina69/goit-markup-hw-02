@@ -125,6 +125,7 @@ color: var(--color-light);
 }
 /* Benefit section */
 .benefits {
+    font-size: 14px;
     font-weight: 700;
     line-height: 1.14;
     letter-spacing: 0.03em;
@@ -132,6 +133,7 @@ color: var(--color-light);
     text-transform: uppercase;
 }
 .benefit-text {
+        font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
         text-align: left;
