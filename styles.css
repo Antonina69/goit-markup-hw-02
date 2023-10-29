@@ -50,7 +50,11 @@ color: var(--color-brand);
  {
 color: var(--color-link);
 }
-.header-link-primary {
+.header-link-current {
+        font-weight: 500;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+        text-align: left;
         color: var(--color-brand);
 }
 .contacts-link {
